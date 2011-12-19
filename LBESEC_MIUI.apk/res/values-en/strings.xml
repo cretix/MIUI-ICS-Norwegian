@@ -1,17 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="Dashboard_About">About</string>
-  <string name="Dashboard_About_Copyright">"Powered by Team LBE
-¬©2011 Copyright"</string>
+  <string name="Dashboard_About_Copyright">"Powered by Team LBE©2011 永杨安风"</string>
   <string name="Dashboard_About_PatternVersion">"Cell Location Pattern ver:%1$s
 Spam SMS Pattern ver:%2$s
 Virus Pattern ver:%3$s
 Cloud scan Pattern ver:%4$s
 "</string>
-  <string name="Dashboard_About_PkgVersion">%1$s for Android. Version %2$s</string>
+  <string name="Dashboard_About_PkgVersion">"%1$s for Android. Version %2$s
+"</string>
   <string name="Dashboard_About_mail">Mail: &lt;a href=mailto:lbe@lbesec.com&gt;lbe@lbesec.com&lt;/a&gt;</string>
   <string name="Dashboard_About_phones">Phone: &lt;a href=tel:+8601085997019&gt;+86-010-85997019&lt;/a&gt;</string>
   <string name="Dashboard_About_urls">&lt;p&gt;Website: &lt;a href=http://www.lbesec.com&gt;www.lbesec.com&lt;/a&gt;&lt;/p&gt; &lt;p&gt;Product blog: &lt;a href=http://weibo.com/lbesec&gt;Team LBE&lt;/a&gt;&lt;/p&gt; &lt;p&gt;Team LBE blog&lt;/p&gt; &lt;p&gt; Lamian: &lt;a href=http://t.qq.com/lamian&gt;http://t.qq.com/lamian&lt;/a&gt;&lt;/p&gt; &lt;p&gt; Elviesss: &lt;a href=http://t.qq.com/elviesss&gt;http://t.qq.com/elviesss&lt;/a&gt;&lt;/p&gt;</string>
+  <string name="Dashboard_App">Apps</string>
   <string name="Dashboard_CheckUpdate">Check for updates</string>
   <string name="Dashboard_ChooseProduct">Choose LBE Product</string>
   <string name="Dashboard_ChooseProduct_Hint1">Detected multiple LBE Security Product installations:</string>
@@ -24,9 +25,28 @@ Mobile Security"</string>
   <string name="Dashboard_ChooseProduct_Hint_KeepLite">"Keep
 Privacy Guard"</string>
   <string name="Dashboard_ChooseProduct_Hint_Lite">LBE Privacy Guard</string>
+  <string name="Dashboard_HIPS_Disable_Content">Closing will mean the application no longer monitors system application, are you sure you want to do this?</string>
+  <string name="Dashboard_HIPS_Disable_Title">Turn off rights management</string>
   <string name="Dashboard_HIPS_Loading">Active Protection Service is loading...</string>
   <string name="Dashboard_HIPS_Running">Active Protection Service is running...</string>
   <string name="Dashboard_HIPS_Stopped">Active Protection Service is stopped...</string>
+  <string name="Dashboard_Log">Log</string>
+  <string name="Dashboard_Log_Clear_Content">Are you sure you want to clear the log content?</string>
+  <string name="Dashboard_Log_Clear_Title">Clear log</string>
+  <string name="Dashboard_Perm">Permissions</string>
+  <string name="Dashboard_Perm_HIPS">Rights Management</string>
+  <string name="Dashboard_Perm_HIPS_Desc">Access control for apps, and phone %1$d software versions</string>
+  <string name="Dashboard_Perm_HIPS_Desc2">Monitoring %1$d software version</string>
+  <string name="Dashboard_Perm_HIPS_Disabled">Rights management has been disabled</string>
+  <string name="Dashboard_Perm_HIPS_Switch">Open access control</string>
+  <string name="Dashboard_Perm_Header">%1$d monitoring software</string>
+  <string name="Dashboard_Perm_Header_Disabled">Permissions monitoring has been disabled</string>
+  <string name="Dashboard_Perm_SU">ROOT Permissions</string>
+  <string name="Dashboard_Perm_SU_Desc">%1$d will be allowed access to ROOT permissions</string>
+  <string name="Dashboard_Perm_SU_Disabled">ROOT Permissions have been disabled</string>
+  <string name="Dashboard_Perm_SU_Switch">Allow ROOT permissions</string>
+  <string name="Dashboard_Su_Enable_Content">System will allow applications to request the highest administrative privileges. This may cause system instability or permanent damage, enable to caution, are you sure wish to continue?</string>
+  <string name="Dashboard_Su_Enable_Title">Enable ROOT permissions</string>
   <string name="Generic_Canceling">Cancelling...</string>
   <string name="Generic_Check">Check</string>
   <string name="Generic_Clean">Clean</string>
@@ -55,9 +75,12 @@ Privacy Guard"</string>
   <string name="Generic_Version">Version: %1$s</string>
   <string name="HIPS">Active Protection Service</string>
   <string name="HIPS_Action_Accept">Allow</string>
+  <string name="HIPS_Action_Accept_Colored">&lt;font color=#478800&gt;Accept&lt;/font&gt;</string>
   <string name="HIPS_Action_Accept_Count">Allowed: %1$d</string>
   <string name="HIPS_Action_Prompt">Prompt</string>
+  <string name="HIPS_Action_Prompt_Colored">&lt;font color=#FF8A00&gt;Prompt&lt;/font&gt;</string>
   <string name="HIPS_Action_Reject">Deny</string>
+  <string name="HIPS_Action_Reject_Colored">&lt;font color=#DF0000&gt;Reject&lt;/font&gt;</string>
   <string name="HIPS_Action_Reject_Count">Denied: %1$d</string>
   <string name="HIPS_App_Config">Configure app permission</string>
   <string name="HIPS_App_Config_NoRoot">You are unable to modify app permission due to the Active Protection Service has been turned off. Click here to enable Active Protection Service</string>
@@ -167,8 +190,8 @@ Do you wish to continue?"</string>
   <string name="HIPS_Perm_SendSMS_Hint">%1$s apps have the permission to send SMS</string>
   <string name="HIPS_Perm_SendSMS_Port">Dest Port:</string>
   <string name="HIPS_Perm_SendSMS_Recipient">Recipient:</string>
-  <string name="HIPS_Perm_SendSMS_SMSC">SMS Center:</string>
-  <string name="HIPS_Perm_SendSMS_SMSC_Default">Default SMS Center</string>
+  <string name="HIPS_Perm_SendSMS_SMSC">SMS Centre:</string>
+  <string name="HIPS_Perm_SendSMS_SMSC_Default">Default SMS Centre</string>
   <string name="HIPS_Perm_SendSMS_Text">send SMS to %1$s</string>
   <string name="HIPS_Perm_SilenceRinger">silence the ringer</string>
   <string name="HIPS_Perm_WIFINetwork">WIFI</string>
@@ -189,7 +212,7 @@ Click OK to restart automatically
 Note: Some phones do not support automatic restart. If your phone does not restart automatically, please restart manually"</string>
   <string name="HIPS_SecurityPrompt_Accept">Allowed (%d)</string>
   <string name="HIPS_SecurityPrompt_Caption">Security Warning</string>
-  <string name="HIPS_SecurityPrompt_Reject">Denied (%d)</string>
+  <string name="HIPS_SecurityPrompt_Reject">Reject (%d)</string>
   <string name="HIPS_SecurityPrompt_Remember">Remember my choice</string>
   <string name="HIPS_SecurityPrompt_Title">%1$s is trying to %2$s</string>
   <string name="HIPS_Trust_Add">Trust an app</string>
@@ -232,7 +255,22 @@ Note: Some phones do not support automatic restart. If your phone does not resta
   <string name="Pref_Traffic_Clean">Clear traffic history record</string>
   <string name="Pref_Traffic_Clean_Dialog">All traffic record will be cleared, are you sure?</string>
   <string name="Pref_Traffic_DataPlan">Data Plan</string>
+  <string name="Privacy_AppPerm_Count">%1$d permissions</string>
+  <string name="Privacy_AppPerm_Count_Trust">%1$d - &lt;font color=#478800&gt;Trusted apps&lt;/font&gt;</string>
+  <string name="Privacy_App_Finish">Done</string>
+  <string name="Privacy_App_Installed">Application installed, it is recommended to set some permissions</string>
+  <string name="Privacy_App_Launch">Open</string>
+  <string name="Privacy_App_Log">Log</string>
+  <string name="Privacy_App_Manage">App Management</string>
+  <string name="Privacy_App_Trust">Trust application</string>
+  <string name="Privacy_App_TrustDialog_Content">The system will not monitor or send alerts about this application, only do this if you understand the risks</string>
+  <string name="Privacy_App_TrustDialog_Title">Trust App</string>
+  <string name="Privacy_App_Trust_Summary_Off">System will monitor application requests</string>
+  <string name="Privacy_App_Trust_Summary_On">Application will monitor other application requests</string>
+  <string name="Privacy_App_Uninstall">Uninstall</string>
+  <string name="Privacy_Perm_Count">Allowed %1$d times denied %2$d</string>
   <string name="SoftMgr">Applications</string>
+  <string name="Su_Enable_Dialog">%1$s attempted to gain ROOT privileges. Ensure that the ROOT access is not enabled by default by opening the management application.</string>
   <string name="Traffic">Internet</string>
   <string name="Traffic_Monitor">Usage</string>
   <string name="Traffic_Monitor_APN_Disable">Disable Mobile Network</string>

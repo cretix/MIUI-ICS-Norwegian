@@ -4,10 +4,10 @@
   <string name="accessibility_call_muted">Call muted.</string>
   <string name="accessibility_speakerphone_enabled">Speakerphone enabled.</string>
   <string name="add_button">Add</string>
-  <string name="add_fdn_contact">Add fixed dialing number</string>
+  <string name="add_fdn_contact">Add fixed dialling number</string>
   <string name="add_sip_account">Add account</string>
   <string name="add_vm_number_str">Add number</string>
-  <string name="adding_fdn_contact">Adding fixed dialing number…</string>
+  <string name="adding_fdn_contact">Adding fixed dialling number…</string>
   <string name="administrative_disable">Administrative disabled</string>
   <string name="administrative_enable">Administrative enabled</string>
   <string name="advanced_settings">Optional settings</string>
@@ -60,7 +60,7 @@
   <string name="auto_registration">AutoRegistration</string>
   <string name="auto_retry_mode_summary">Enable Auto Retry mode</string>
   <string name="auto_retry_mode_title">Auto Retry</string>
-  <string name="autoip">Auto IP dialing</string>
+  <string name="autoip">Auto IP dialling</string>
   <string name="autoip_sum">Add IP prefix to a foreign number. Enter current area code below.</string>
   <string name="bad_pin">The old PIN you typed is not correct. Please try again.</string>
   <string name="bad_pin2">The old PIN2 you typed is not correct. Please try again.</string>
@@ -106,7 +106,7 @@
   <string name="cancel">Cancel</string>
   <string name="card_title_call_ended">Call ended</string>
   <string name="card_title_conf_call">Conference call</string>
-  <string name="card_title_dialing">Dialing</string>
+  <string name="card_title_dialing">Dialling</string>
   <string name="card_title_forwarded_incoming_call">Forward incoming call(s)</string>
   <string name="card_title_hanging_up">Hanging up</string>
   <string name="card_title_on_hold">On hold</string>
@@ -116,7 +116,7 @@
   <string name="cdma_lte_data_service">Set up data service</string>
   <string name="cdma_options">CDMA Options</string>
   <string name="cdma_system_select_dialogtitle">System select</string>
-  <string name="cdma_system_select_summary">Change the cdma roaming mode</string>
+  <string name="cdma_system_select_summary">Change the CMDA roaming mode</string>
   <string name="cdma_system_select_title">System select</string>
   <string name="cell_bc_sms_disable">Cell Broadcast SMS disabled</string>
   <string name="cell_bc_sms_enable">Cell Broadcast SMS enabled</string>
@@ -139,7 +139,7 @@
   <string name="command_error_sim_absent">ICC card is absent.</string>
   <string name="command_error_sim_pin2">PIN2 required to finish this operation.</string>
   <string name="command_error_sim_puk2">PIN2 is locked, PUK2 is required to unlock it.</string>
-  <string name="command_error_sms_fail_retry">Failed to send sms, please retry later.</string>
+  <string name="command_error_sms_fail_retry">Failed to send SMS, please retry later.</string>
   <string name="command_error_unsupported_mode">The preferred network type is not supported.</string>
   <string name="command_error_unsupported_request">This operation is not supported.</string>
   <string name="confirm_delete_message_title">You will delete this custom attribution messages.</string>
@@ -162,10 +162,10 @@
   <string name="data_enable_summary">Enable data access over Mobile network</string>
   <string name="data_enabled">Data enabled</string>
   <string name="default_port">5060</string>
-  <string name="default_preference_summary">&lt;Not set&gt;</string>
+  <string name="default_preference_summary">Not set</string>
   <string name="default_transport">UDP</string>
   <string name="deleteSimContactConfirmTitle">Delete SIM contacts</string>
-  <string name="deleting_fdn_contact">Deleting fixed dialing number…</string>
+  <string name="deleting_fdn_contact">Deleting fixed dialling number…</string>
   <string name="description_call_recording">Call recording is on-going.</string>
   <string name="description_delete_button">backspace</string>
   <string name="description_dial_button">dial</string>
@@ -202,7 +202,7 @@
   <string name="disable_pin_ok">SIM PIN disabled</string>
   <string name="disable_sim_pin">Disable SIM PIN</string>
   <string name="display_name">DisplayName</string>
-  <string name="display_name_summary">&lt;Same as username&gt;</string>
+  <string name="display_name_summary">Same as username</string>
   <string name="display_name_title">Display name</string>
   <string name="domain_address">SipDomain</string>
   <string name="domain_address_title">Server</string>
@@ -210,8 +210,8 @@
   <string name="dtmf_tones_title">DTMF Tones</string>
   <string name="ecm_exit_dialog">EcmExitDialog</string>
   <string name="edit_custom_location_title">Customize regional attribution, number attribution, wildcards # supported</string>
-  <string name="edit_fdn_contact">Edit fixed dialing number</string>
-  <string name="emergencyDialerIconLabel">Emergency Dialer</string>
+  <string name="edit_fdn_contact">Edit fixed dialling number</string>
+  <string name="emergencyDialerIconLabel">Emergency Dialler</string>
   <string name="emergency_broadcast_disable">Emergency Broadcast disabled</string>
   <string name="emergency_broadcast_enable">Emergency Broadcast enabled</string>
   <string name="emergency_call_area_code_edit_dialog_button">Call</string>
@@ -261,16 +261,16 @@
   <string name="fake_phone_activity_infoText_text">Incoming phone number</string>
   <string name="fake_phone_activity_phoneNumber_text">(650) 555-1234</string>
   <string name="fake_phone_activity_placeCall_text">Fake Incoming Call</string>
-  <string name="fdn">Fixed Dialing Numbers</string>
+  <string name="fdn">Fixed Dialling Numbers</string>
   <string name="fdnListLabel">FDN list</string>
-  <string name="fdn_contact_added">Fixed dialing number added.</string>
-  <string name="fdn_contact_deleted">Fixed dialing number deleted.</string>
-  <string name="fdn_contact_updated">Fixed dialing number updated.</string>
-  <string name="fdn_disabled">Fixed Dialing Numbers are disabled</string>
+  <string name="fdn_contact_added">Fixed dialling number added.</string>
+  <string name="fdn_contact_deleted">Fixed dialling number deleted.</string>
+  <string name="fdn_contact_updated">Fixed dialling number updated.</string>
+  <string name="fdn_disabled">Fixed Dialling Numbers are disabled</string>
   <string name="fdn_enable_puk2_requested">PIN2 is locked! Please change PIN2 and retry!</string>
-  <string name="fdn_enabled">Fixed Dialing Numbers are enabled</string>
+  <string name="fdn_enabled">Fixed Dialling Numbers are enabled</string>
   <string name="fdn_invalid_number">"FDN not updated: number cannot exceed 20 digits, and can only be digits or '+'."</string>
-  <string name="fdn_only_error">Operations are only allowed on fixed dialing numbers.</string>
+  <string name="fdn_only_error">Operations are only allowed on fixed dialling numbers.</string>
   <string name="fdn_summary">The above options are all disabled when FDN are enabled</string>
   <string name="fw_change_failed">"Forwarding number change unsuccessful.
 Please contact your carrier if this problem persists."</string>
@@ -424,7 +424,7 @@ Switch to the new provider anyway?"</string>
   <string name="onscreenVoiceDeviceHeadset">Headphones</string>
   <string name="onscreenVoiceDeviceSpeaker">Loudspeaker</string>
   <string name="onscreenVoiceDevices">Answer using</string>
-  <string name="optional_summary">&lt;Optional&gt;</string>
+  <string name="optional_summary">Optional</string>
   <string name="ota_activate">Activate</string>
   <string name="ota_call_end">Back</string>
   <string name="ota_failure">Programming Unsuccessful</string>
@@ -483,7 +483,7 @@ Please notice that phone will be locked if failed again!"</string>
   <string name="pref_custom_location_summary">Customize regional attribution and number attribution</string>
   <string name="pref_custom_location_title">Customize attribution</string>
   <string name="pref_edit_custom_location_title">Edit</string>
-  <string name="prefered_network_type_pref_entries_3g_prefered">3G prefered</string>
+  <string name="prefered_network_type_pref_entries_3g_prefered">3G preferred</string>
   <string name="prefered_network_type_pref_entries_auto">Automatic</string>
   <string name="prefered_network_type_pref_entries_only_2g">Only 2G (power-saving)</string>
   <string name="prefered_network_type_pref_entries_only_3g">Only 3G</string>
@@ -626,19 +626,16 @@ Please notice that SIM card will be trashed if failed again!"</string>
   <string name="technology_news_enable">Technology News enabled</string>
   <string name="third_party_account_summary">This account is currently in use by the %s application</string>
   <string name="throttle_current_usage">Data used in current period</string>
-  <string name="throttle_data_rate_reduced_subtext">"%1$s maximum exceeded
-Data rate reduced to %2$d Kb/s"</string>
+  <string name="throttle_data_rate_reduced_subtext">"%1$s maximum exceeded. Data rate reduced to %2$d Kb/s"</string>
   <string name="throttle_data_usage">Data usage</string>
   <string name="throttle_data_usage_subtext">%1$s (%2$d٪) of %3$s period maximum</string>
   <string name="throttle_help">Learn more</string>
   <string name="throttle_help_subtext">"More information about your carrier's mobile network data use policy"</string>
   <string name="throttle_rate">Data rate policy</string>
   <string name="throttle_rate_subtext">Data rate reduced to %1$d Kb/s if data use limit is exceeded</string>
-  <string name="throttle_status_subtext">"%1$s (%2$d٪) of %3$s period maximum
-Next period starts in %4$d days (%5$s)"</string>
+  <string name="throttle_status_subtext">"%1$s (%2$d٪) of %3$s period maximum. Next period starts in %4$d days (%5$s)"</string>
   <string name="throttle_time_frame">Data use period</string>
-  <string name="throttle_time_frame_subtext">"%1$d٪ of cycle elapsed
-Next period starts in %2$d days (%3$s)"</string>
+  <string name="throttle_time_frame_subtext">"%1$d٪ of cycle elapsed. Next period starts in %2$d days (%3$s)"</string>
   <string name="transport">Protocol</string>
   <string name="transport_title">Transport type</string>
   <string name="tty_mode_option_summary">Set TTY mode</string>
@@ -647,7 +644,7 @@ Next period starts in %2$d days (%3$s)"</string>
   <string name="unknown">Unknown</string>
   <string name="unlock_failed">Network unlock request unsuccessful.</string>
   <string name="unlock_success">Network unlock successful.</string>
-  <string name="updating_fdn_contact">Updating fixed dialing number…</string>
+  <string name="updating_fdn_contact">Updating fixed dialling number…</string>
   <string name="updating_settings">Updating settings…</string>
   <string name="updating_title">Call settings</string>
   <string name="username">UserName</string>

@@ -517,6 +517,7 @@ Since data usage is measured by your phone, and your carrier may account for usa
   <string name="date_time_set_timezone">Select time zone</string>
   <string name="debug_applications_category">Apps</string>
   <string name="debug_intent_sender_label">Debug intent sender</string>
+  <string name="debug_log">Debug log</string>
   <string name="debug_ui_category">User interface</string>
   <string name="default_date_format">MM/dd/yyyy</string>
   <string name="delete">Delete</string>
@@ -1112,8 +1113,12 @@ Possibly incorrect PIN."</string>
   <string name="skip_button_label">Cancel</string>
   <string name="skip_label">Skip</string>
   <string name="small_font">Small</string>
+  <string name="sms_delivered_sound_dialog_title">Choose SMS delivered sound</string>
+  <string name="sms_delivered_sound_title">SMS delivered sound</string>
   <string name="sms_over_ims_off">Turn off SMS over IMS</string>
   <string name="sms_over_ims_on">Turn on SMS over IMS</string>
+  <string name="sms_received_sound_dialog_title">Choose SMS received sound</string>
+  <string name="sms_received_sound_title">SMS received sound</string>
   <string name="sort_order_alpha">Sort by name</string>
   <string name="sort_order_size">Sort by size</string>
   <string name="sound_category_calls_and_notification_title">Ringtone &amp; notifications</string>
@@ -1277,6 +1282,8 @@ Possibly incorrect PIN."</string>
   <string name="unlock_set_unlock_pin_title">PIN</string>
   <string name="unmount_inform_text">USB storage will be unmounted.</string>
   <string name="untitled_apn">Untitled</string>
+  <string name="upload_debug_log_summary">Upload debug log to help developing of a more stable and easy to use MIUI ROM. Thank you!</string>
+  <string name="upload_debug_log_title">Upload debug log</string>
   <string name="usage_name_percent">"%1$s -  %2$s%%"</string>
   <string name="usage_stats_label">Usage statistics</string>
   <string name="usage_time_label">Usage time</string>

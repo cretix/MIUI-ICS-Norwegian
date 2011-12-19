@@ -145,6 +145,7 @@ Use only the supplied charger."</string>
   <string name="status_bar_toggle_privacy_mode">Guard</string>
   <string name="status_bar_toggle_reboot">Reboot</string>
   <string name="status_bar_toggle_rotate">Rotation</string>
+  <string name="status_bar_toggle_screenshot">ScreenShot</string>
   <string name="status_bar_toggle_shutdown">Power</string>
   <string name="status_bar_toggle_style">Toggle style</string>
   <string name="status_bar_toggle_style_compact">Compact</string>

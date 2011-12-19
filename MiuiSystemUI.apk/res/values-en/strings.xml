@@ -52,23 +52,21 @@
   <string name="accessibility_wifi_two_bars">WiFi two bars.</string>
   <string name="always_use_accessory">Use by default for this USB accessory</string>
   <string name="always_use_device">Use by default for this USB device</string>
-  <string name="app_label">System UI</string>
+  <string name="app_label">MiuiSystemUI</string>
   <string name="battery_indicator_style">Battery indicator style</string>
   <string name="battery_low_percent_format">%d%% remaining</string>
   <string name="battery_low_subtitle">The battery is getting low.</string>
   <string name="battery_low_title">Please connect charger</string>
   <string name="battery_low_why">Battery use</string>
   <string name="bluetooth_tethered">Bluetooth tethered</string>
-  <string name="call_status_dialing">Dialing</string>
+  <string name="call_status_dialing">Dialling</string>
   <string name="compat_mode_help_body">When an app was designed for a smaller screen, a zoom control will appear by the clock.</string>
   <string name="compat_mode_help_header">Compatibility Zoom</string>
   <string name="compat_mode_off">Stretch to fill screen</string>
   <string name="compat_mode_on">Zoom to fill screen</string>
   <string name="config_statusBarComponent">com.android.systemui.statusbar.phone.PhoneStatusBar</string>
   <string name="config_systemBarComponent">com.android.systemui.statusbar.tablet.TabletStatusBar</string>
-  <string name="data_usage_disabled_dialog">"The specified data usage limit has been reached.
-
-Additional data use may incur carrier charges."</string>
+  <string name="data_usage_disabled_dialog">"The specified data usage limit has been reached. Additional data use may incur carrier charges."</string>
   <string name="data_usage_disabled_dialog_3g_title">2G-3G data disabled</string>
   <string name="data_usage_disabled_dialog_4g_title">4G data disabled</string>
   <string name="data_usage_disabled_dialog_enable">Re-enable data</string>
@@ -78,18 +76,17 @@ Additional data use may incur carrier charges."</string>
   <string name="gps_notification_found_text">Location set by GPS</string>
   <string name="gps_notification_searching_text">Searching for GPS</string>
   <string name="incoming_call_vibrate_hint">Incoming call</string>
-  <string name="insecure_expand_style">expandable under insecure keyguard</string>
+  <string name="insecure_expand_style">expandable under insecure key-guard</string>
   <string name="installer_cd_button_title">Install Android File Transfer application for Mac</string>
-  <string name="invalid_charger">"USB charging not supported.
-Use only the supplied charger."</string>
+  <string name="invalid_charger">"USB charging not supported. Use only the supplied charger."</string>
   <string name="label_view">View</string>
   <string name="menu_reset_toggle_settings">Reset toggles</string>
   <string name="mms_vibrate_hint">Message</string>
   <string name="mount_storage">Yes</string>
   <string name="move_data_to_sdcard_message">"It will move data such as screenshots, pictures and so on from internal storage to SD card. To make sure smooth and stable use experience, it's better to keep SD card in phone for daily use."</string>
   <string name="move_data_to_sdcard_title">Export internal data to SD card</string>
-  <string name="no_vibrate_hint">Accoring to your settings, incoming call notifcation and sms will not vibrate, enabling vibration has no effect</string>
-  <string name="not_all_vibrate_hint">According to your settings, %1$s V ibrates, %2$s does not vibrate, you can change it through Settings &gt; Sound &gt; Vibrate</string>
+  <string name="no_vibrate_hint">According to your settings, incoming call notification and messages will not vibrate, enabling vibration has no effect</string>
+  <string name="not_all_vibrate_hint">According to your settings, %1$s Vibrates, %2$s does not vibrate, you can change it through Settings &gt; Sound &gt; Vibrate</string>
   <string name="notification_vibrate_hint">Notification</string>
   <string name="return_to_incall_screen">Click to return to call</string>
   <string name="screenshot_failed_text">"Couldn't save screenshot. Storage may be in use."</string>
@@ -107,8 +104,7 @@ Use only the supplied charger."</string>
   <string name="status_bar_do_not_disturb_button">Do not disturb</string>
   <string name="status_bar_input_method_settings_configure_input_methods">Configure input methods</string>
   <string name="status_bar_latest_events_title">Notifications</string>
-  <string name="status_bar_network_name_separator">"
-"</string>
+  <string name="status_bar_network_name_separator">" "</string>
   <string name="status_bar_no_notifications_title">No notifications</string>
   <string name="status_bar_no_recent_apps">No recent apps</string>
   <string name="status_bar_ongoing_events_title">Ongoing</string>
@@ -145,6 +141,7 @@ Use only the supplied charger."</string>
   <string name="status_bar_toggle_privacy_mode">Guard</string>
   <string name="status_bar_toggle_reboot">Reboot</string>
   <string name="status_bar_toggle_rotate">Rotation</string>
+  <string name="status_bar_toggle_screenshot">ScreenShot</string>
   <string name="status_bar_toggle_shutdown">Power</string>
   <string name="status_bar_toggle_style">Toggle style</string>
   <string name="status_bar_toggle_style_compact">Compact</string>
@@ -153,7 +150,7 @@ Use only the supplied charger."</string>
   <string name="status_bar_toggle_torch">Torch</string>
   <string name="status_bar_toggle_vibrate">Vibrate</string>
   <string name="status_bar_toggle_waiting">Changing toggle style...</string>
-  <string name="status_bar_toggle_wifi">WLAN</string>
+  <string name="status_bar_toggle_wifi">Wi-Fi</string>
   <string name="status_bar_use_physical_keyboard">Use physical keyboard</string>
   <string name="tab_notifications_lable">Notifications</string>
   <string name="tab_toggles_lable">Toggles</string>

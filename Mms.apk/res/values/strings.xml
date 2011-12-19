@@ -136,7 +136,7 @@
   <string name="from_label">"From: "</string>
   <string name="full_phrase">The number of phrases you have entered has exceeded 50.</string>
   <string name="group_message_failed_title">Failed sending to %d contacts, retry?</string>
-  <string name="group_resend_message">Resending (%d)</string>
+  <string name="group_resend_message">Resend(%d)</string>
   <string name="guild_add_attachments">Click here to add attachments or smily for the message</string>
   <string name="guild_add_recipients">Click here to add recipients in address book</string>
   <string name="has_draft">Draft</string>
@@ -178,7 +178,7 @@
   <string name="message_failed">Failed</string>
   <string name="message_failed_body">Select to review the message and try again.</string>
   <string name="message_options">Message options</string>
-  <string name="message_pending">Sending...</string>
+  <string name="message_pending">Sending</string>
   <string name="message_queued">Currently unable to send your message. It will be sent when the service becomes available.</string>
   <string name="message_readed">Read</string>
   <string name="message_received">Received</string>
@@ -196,6 +196,8 @@
   <string name="mms">MMS</string>
   <string name="move_down">Move down</string>
   <string name="move_up">Move up</string>
+  <string name="multi_select_title_conversation">Selected %1$s thread(s)</string>
+  <string name="multi_select_title_message">Selected %1$s message(s)</string>
   <string name="multimedia_message">Multimedia message</string>
   <string name="multimedia_notification">Multimedia message notification</string>
   <string name="new_message">New message</string>

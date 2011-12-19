@@ -5,6 +5,7 @@
   <string name="autumn_begins">立秋</string>
   <string name="autumn_equinox">秋分</string>
   <string name="callNoAnswerTimeFormat">Ring %s times</string>
+  <string name="caller_info_name_delimiter">Or</string>
   <string name="childrens_day">儿童节</string>
   <string name="chinese_youth_day">青年节</string>
   <string name="christmas_dad">圣诞节</string>

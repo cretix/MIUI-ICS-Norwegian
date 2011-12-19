@@ -10,7 +10,7 @@
   <string name="appwidget_title">Photo Gallery</string>
   <string name="auto">Auto</string>
   <string name="autofix">Auto-fix</string>
-  <string name="caching_label">Caching…</string>
+  <string name="caching_label">Caching...</string>
   <string name="camera_connected">Camera connected.</string>
   <string name="camera_disconnected">Camera disconnected.</string>
   <string name="camera_setas_wallpaper">Wallpaper</string>
@@ -41,7 +41,7 @@
   <string name="duration">Duration</string>
   <string name="edit">Edit</string>
   <string name="edited_photo_bucket_name">Edited</string>
-  <string name="empty_album">O images/videos available.</string>
+  <string name="empty_album">No images/videos available.</string>
   <string name="exposure_time">Exposure time</string>
   <string name="facelift">Face Glow</string>
   <string name="facetan">Face Tan</string>
@@ -58,7 +58,7 @@
   <string name="free_space_format">%s free</string>
   <string name="gadget_title">Picture frame</string>
   <string name="grain">Film Grain</string>
-  <string name="grayscale">B&amp;W</string>
+  <string name="grayscale">Mono</string>
   <string name="group_by">Group by</string>
   <string name="group_by_album">By album</string>
   <string name="group_by_faces">By people</string>
@@ -72,10 +72,10 @@
   <string name="import_fail">Import unsuccessful</string>
   <string name="iso">ISO</string>
   <string name="loading">Loading…</string>
-  <string name="loading_account">Loading account…</string>
+  <string name="loading_account">Loading account...</string>
   <string name="loading_failure">Photo cannot be loaded</string>
-  <string name="loading_image">Loading image…</string>
-  <string name="loading_video">Loading video…</string>
+  <string name="loading_image">Loading image...</string>
+  <string name="loading_video">Loading video...</string>
   <string name="location">Location</string>
   <string name="locations">Locations</string>
   <string name="lomoish">Lomo</string>
@@ -91,7 +91,7 @@
   <string name="no_albums_alert">No albums available.</string>
   <string name="no_connectivity">"Some locations couldn't be identified due to network problems."</string>
   <string name="no_location">No location</string>
-  <string name="no_such_item">"Couldn't find item."</string>
+  <string name="no_such_item">"No item(s) found."</string>
   <string name="no_thumbnail">No thumbnail</string>
   <string name="orientation">Orientation</string>
   <string name="path">Path</string>
@@ -116,7 +116,7 @@
   <string name="save_error">"Couldn't save cropped image."</string>
   <string name="save_photo">Save edited photo?</string>
   <string name="saving_failure">Photo cannot be saved</string>
-  <string name="saving_image">Saving picture…</string>
+  <string name="saving_image">Saving picture...</string>
   <string name="select_album">Select album(s)</string>
   <string name="select_all">Select all</string>
   <string name="select_group">Select group(s)</string>

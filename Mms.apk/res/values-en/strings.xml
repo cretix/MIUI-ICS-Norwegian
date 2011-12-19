@@ -124,7 +124,7 @@
   <string name="expire_on">Expires: %s</string>
   <string name="failed_to_add_media">Sorry, you cannot add this %1$s to your message.</string>
   <string name="failed_to_resize_image">Picture not resized.</string>
-  <string name="fdn_check_failure">You can only send messages to your fixed dialing numbers.</string>
+  <string name="fdn_check_failure">You can only send messages to your fixed dialling numbers.</string>
   <string name="festival">Recommended</string>
   <string name="festival_sms_category_count_format">(%s)</string>
   <string name="festival_sms_loading">Loading...</string>
@@ -136,13 +136,13 @@
   <string name="from_label">"From: "</string>
   <string name="full_phrase">The number of phrases you have entered has exceeded 50.</string>
   <string name="group_message_failed_title">Failed sending to %d contacts, retry?</string>
-  <string name="group_resend_message">Resending (%d)</string>
+  <string name="group_resend_message">Resend(%d)</string>
   <string name="guild_add_attachments">Click here to add attachments or smily for the message</string>
   <string name="guild_add_recipients">Click here to add recipients in address book</string>
   <string name="has_draft">Draft</string>
-  <string name="has_invalid_recipient">Invalid recipient(s): &lt;%1$s&gt;</string>
+  <string name="has_invalid_recipient">Invalid recipient(s): %1$s</string>
   <string name="hidden_sender_address">Hidden sender address</string>
-  <string name="inline_subject">&lt;Subject: %s&gt;</string>
+  <string name="inline_subject">Subject: %s</string>
   <string name="insufficient_drm_rights">Insufficient DRM rights detected.</string>
   <string name="invalid_destination">Invalid destination address.</string>
   <string name="invalid_recipient_message">Please correct the recipient(s) or they will not receive the message.</string>
@@ -178,7 +178,7 @@
   <string name="message_failed">Failed</string>
   <string name="message_failed_body">Select to review the message and try again.</string>
   <string name="message_options">Message options</string>
-  <string name="message_pending">Sending...</string>
+  <string name="message_pending">Sending</string>
   <string name="message_queued">Currently unable to send your message. It will be sent when the service becomes available.</string>
   <string name="message_readed">Read</string>
   <string name="message_received">Received</string>
@@ -196,6 +196,8 @@
   <string name="mms">MMS</string>
   <string name="move_down">Move down</string>
   <string name="move_up">Move up</string>
+  <string name="multi_select_title_conversation">Selected %1$s thread(s)</string>
+  <string name="multi_select_title_message">Selected %1$s message(s)</string>
   <string name="multimedia_message">Multimedia message</string>
   <string name="multimedia_notification">Multimedia message notification</string>
   <string name="new_message">New message</string>
@@ -225,7 +227,7 @@
   <string name="prefDialogTitle_vibrateWhen">Vibrate</string>
   <string name="pref_advanced_settings_title">Advanced settings</string>
   <string name="pref_conversation_show_avatar">Show avatar</string>
-  <string name="pref_edit_smsc_address">SMS center number</string>
+  <string name="pref_edit_smsc_address">SMS centre number</string>
   <string name="pref_key_append_signature_summary">Automatically add signature to end of the message</string>
   <string name="pref_key_append_signature_title">Optional signature</string>
   <string name="pref_key_edit_signature_title">Edit signature</string>
@@ -256,7 +258,7 @@
   <string name="pref_summary_mms_retrieval_during_roaming">Automatically retrieve messages while roaming</string>
   <string name="pref_summary_new_message_popup">Show pop-ups when new message is received</string>
   <string name="pref_summary_new_message_popup_when_secure">No popup notifications when access controlled</string>
-  <string name="pref_summary_notification_body_enabled">Preview messages on lockscreen and status bar</string>
+  <string name="pref_summary_notification_body_enabled">Preview messages on lock screen and status bar</string>
   <string name="pref_summary_notification_body_enabled_when_secure">Preview messages disabled when access controlled</string>
   <string name="pref_summary_notification_enabled">Display message notifications in status bar</string>
   <string name="pref_summary_notification_vibrateWhen">Also vibrate when notified</string>
@@ -391,7 +393,8 @@
   <string name="type_to_compose_text_enter_to_send">Type message</string>
   <string name="type_to_compose_text_or_leave_blank">Type message, or leave blank</string>
   <string name="type_video">video</string>
-  <string name="undelivered_msg_dialog_body">"Unable to send this message. Attempt made: %s."</string>
+  <string name="undelivered_msg_dialog_body">"Unable to send this message.
+Attempt made: %s."</string>
   <string name="undelivered_msg_dialog_title">Undelivered message</string>
   <string name="undelivered_sms_dialog_body">Unable to send this message.</string>
   <string name="unknown_sender">Unknown sender</string>
