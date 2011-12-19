@@ -5,20 +5,20 @@
         <item>All apps</item>
     </string-array>
     <string-array name="system_package_label">
-        <item>Gallery</item>
-        <item>Music</item>
-        <item>Sound Recorder</item>
-        <item>Browser</item>
-        <item>Camera</item>
-        <item>File Explorer</item>
+        <item>Galleri</item>
+        <item>Musikk</item>
+        <item>Lydinnspilling</item>
+        <item>Nettleser</item>
+        <item>Kamera</item>
+        <item>Fil Utforsker</item>
     </string-array>
     <string-array name="system_data_label">
-        <item>Contacts</item>
-        <item>Call log</item>
-        <item>Messages</item>
-        <item>Multimedia Messages</item>
-        <item>System settings</item>
-        <item>Wi-Fi settings</item>
+        <item>Kontakter</item>
+        <item>Anropslogg</item>
+        <item>Meldinger</item>
+        <item>Multimedia meldinger</item>
+        <item>System innstillinger</item>
+        <item>Wi-Fi innstillinger</item>
         <item>Desktop layout</item>
         <item>Alarm settings</item>
         <item>Notes</item>
